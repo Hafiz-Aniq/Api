@@ -1,0 +1,252 @@
+[
+    {
+       "question": "What does 'DOM' stand for in JavaScript?",
+        "options": ["Document Object Model", "Data Object Model", "Document Oriented Model", "Data Oriented Model"],
+        "answer": "Document Object Model"
+        ,"type": "EASY"
+    },
+    {
+       "question": "What keyword is used to declare variables in JavaScript?",
+        "options": ["var", "int", "string", "variable"],
+        "answer": "var"
+        ,"type": "EASY"
+
+    },
+    {
+       "question": "Which of the following is not a JavaScript data type?",
+        "options": ["string", "boolean", "float", "array"],
+        "answer": "float"
+        ,"type": "EASY"
+
+    },
+    {
+       "question": "What is the correct way to write a comment in JavaScript?",
+        "options": ["// This is a comment", "<!-- This is a comment -->", "/* This is a comment */", "' This is a comment"],
+        "answer": "// This is a comment"
+        ,"type": "EASY"
+
+    },
+    {
+       "question": "What method is used to add an element to the end of an array?",
+        "options": ["push()", "addToEnd()", "append()", "addElement()"],
+        "answer": "push()"
+        ,"type": "EASY"
+
+    },
+    {
+       "question": "Which symbol is used for single-line comments in JavaScript?",
+        "options": ["//", "/*", "<!--", "#"],
+        "answer": "//"
+        ,"type": "EASY"
+
+    },
+    {
+       "question": "What does 'NaN' stand for?",
+        "options": ["Not a Number", "Notable and Noteworthy", "Never a Null", "New and Numeric"],
+        "answer": "Not a Number"
+        ,"type": "EASY"
+
+    },
+    {
+       "question": "What is the result of 5 + '5' in JavaScript?",
+        "options": ["10", "'55'", "55", "undefined"],
+        "answer": "'55'"
+        ,"type": "EASY"
+
+    },
+    {
+       "question": "What does 'JSON' stand for?",
+        "options": ["JavaScript Object Notation", "JavaScript Object Namespace", "JavaScript Oriented Notation", "JavaScript Object Native"],
+        "answer": "JavaScript Object Notation"
+        ,"type": "EASY"
+
+    },
+    {
+       "question": "What is the purpose of the 'typeof' operator in JavaScript?",
+        "options": ["To check the type of a variable or value", "To convert a value to a different type", "To define a new variable", "To determine the index of an element"],
+        "answer": "To check the type of a variable or value"
+        ,"type": "EASY"
+
+    },{
+        "question": "What does the '===' operator do in JavaScript?",
+        "options": ["Checks both value and type equality", "Checks only value equality", "Assigns a value to a variable", "Compares two values"],
+        "answer": "Checks both value and type equality"
+        ,"type": "MEDIUM"
+    },
+    {
+        "question": "Which function is used to parse a string to an integer in JavaScript?",
+        "options": ["parseInt()", "parseInteger()", "stringToInt()", "toInteger()"],
+        "answer": "parseInt()","type": "MEDIUM"
+    },
+    {
+        "question": "In JavaScript, what is a 'closure'?",
+        "options": ["A function that remembers its lexical scope even when the function is executed outside that lexical scope", "A function that takes no arguments", "A function that is executed immediately after it is defined", "A function that returns an object"],
+        "answer": "A function that remembers its lexical scope even when the function is executed outside that lexical scope","type": "MEDIUM"
+    },
+    {
+        "question": "Which of the following is not a JavaScript framework?",
+        "options": ["React", "Vue", "Angular", "Ruby on Rails"],
+        "answer": "Ruby on Rails","type": "MEDIUM"
+    },
+    {
+        "question": "What does the 'this' keyword refer to in JavaScript?",
+        "options": ["The current object", "The previous object", "The global object", "The parent object"],
+        "answer": "The current object","type": "MEDIUM"
+    },
+    {
+        "question": "What is the purpose of the 'Array.isArray()' method in JavaScript?",
+        "options": ["To check if a variable is an array", "To convert an array to a string", "To add an element to an array", "To remove an element from an array"],
+        "answer": "To check if a variable is an array","type": "MEDIUM"
+    },
+    {
+        "question": "What is the default scope in JavaScript?",
+        "options": ["Function scope", "Global scope", "Local scope", "Block scope"],
+        "answer": "Function scope","type": "MEDIUM"
+    },
+    {
+        "question": "Which method is used to remove the last element from an array in JavaScript?",
+        "options": ["pop()", "removeLast()", "deleteLast()", "splice()"],
+        "answer": "pop()","type": "MEDIUM"
+    },
+    {
+        "question": "What does 'ECMAScript' stand for?",
+        "options": ["ECMA International Scripting Edition", "European Computer Manufacturers Association Script", "Extended Computer Markup and Syntax", "Emphasized Code Management and Syntax"],
+        "answer": "European Computer Manufacturers Association Script","type": "MEDIUM"
+    },
+    {
+        "question": "Which built-in method calls a function for each element in the array?",
+        "options": ["forEach()", "each()", "forEvery()", "loop()"],
+        "answer": "forEach()","type": "MEDIUM"
+    },
+    {
+        "question": "What is a JavaScript promise?",
+        "options": ["An object representing the eventual completion or failure of an asynchronous operation", "A commitment to do something", "A potential variable assignment", "A deferred object"],
+        "answer": "An object representing the eventual completion or failure of an asynchronous operation"
+        ,"type": "HARD"
+    },
+    {
+        "question": "What method is used to join two or more arrays in JavaScript?",
+        "options": ["concat()", "join()", "merge()", "splice()"],
+        "answer": "concat()"
+        ,"type": "HARD"
+    },
+    {
+        "question": "What does 'AJAX' stand for?",
+        "options": ["Asynchronous JavaScript and XML", "Asynchronous JavaScript and XHTML", "Asynchronous JSON and XML", "Asynchronous JSON and XHTML"],
+        "answer": "Asynchronous JavaScript and XML"
+        ,"type": "HARD"
+    },
+    {
+        "question": "What is the purpose of the 'break' statement in JavaScript?",
+        "options": ["To terminate a loop or switch statement", "To skip to the next iteration of a loop", "To return a value from a function", "To throw an error"],
+        "answer": "To terminate a loop or switch statement"
+        ,"type": "HARD"
+    },
+    {
+        "question": "Which method is used to sort the elements of an array in JavaScript?",
+        "options": ["sort()", "order()", "arrange()", "sequence()"],
+        "answer": "sort()"
+        ,"type": "HARD"
+    },
+    {
+        "question": "What is the purpose of the 'map()' method in JavaScript?",
+        "options": ["To create a new array with the results of calling a provided function on every element in the calling array", "To filter elements in an array", "To concatenate elements in an array", "To check if all elements in an array pass a test"],
+        "answer": "To create a new array with the results of calling a provided function on every element in the calling array"
+        ,"type": "HARD"
+    },
+    {
+        "question": "What is the purpose of the 'localStorage' object in JavaScript?",
+        "options": ["To store data with no expiration date", "To store data for a session", "To store data for a single page load", "To store sensitive information"],
+        "answer": "To store data with no expiration date"
+        ,"type": "HARD"
+    },
+    {
+        "question": "What is the purpose of the 'reduce()' method in JavaScript?",
+        "options": ["To reduce the elements of an array to a single value", "To remove elements from an array", "To add elements to an array", "To transform elements in an array"],
+        "answer": "To reduce the elements of an array to a single value"
+        ,"type": "HARD"
+    },
+    {
+        "question": "What is the purpose of the 'filter()' method in JavaScript?",
+        "options": ["To create a new array with all elements that pass the test implemented by the provided function", "To remove elements from an array", "To add elements to an array", "To sort elements in an array"],
+        "answer": "To create a new array with all elements that pass the test implemented by the provided function"
+        ,"type": "HARD"
+    },
+    {
+        "question": "Which method is used to extract a section of an array and return a new array in JavaScript?",
+        "options": ["slice()", "splice()", "extract()", "subset()"],
+        "answer": "slice()"
+        ,"type": "HARD"
+    },
+    {
+        "question": "What is the purpose of the 'Promise.all()' method in JavaScript?",
+        "options": ["To wait for all promises to resolve or any to reject", "To create a new promise", "To resolve a promise", "To reject a promise"],
+        "answer": "To wait for all promises to resolve or any to reject"
+        ,"type": "EXTREM"
+
+    },
+    {
+        "question": "What is a 'callback function' in JavaScript?",
+        "options": ["A function passed as an argument to another function to be executed later", "A function that calls another function", "A function that returns a value", "A function that is called immediately after it is defined"],
+        "answer": "A function passed as an argument to another function to be executed later"
+        ,"type": "EXTREM"
+
+    },
+    {
+        "question": "Which method is used to remove the first element from an array in JavaScript?",
+        "options": ["shift()", "removeFirst()", "deleteFirst()", "unshift()"],
+        "answer": "shift()"
+        ,"type": "EXTREM"
+
+    },
+    {
+        "question": "What is the purpose of the 'try...catch' statement in JavaScript?",
+        "options": ["To handle exceptions", "To terminate a loop", "To define a function", "To execute code asynchronously"],
+        "answer": "To handle exceptions"
+        ,"type": "EXTREM"
+
+    },
+    {
+        "question": "What does 'AJAX' allow JavaScript to do?",
+        "options": ["Make asynchronous HTTP requests", "Manipulate the Document Object Model", "Create interactive user interfaces", "Define custom events"],
+        "answer": "Make asynchronous HTTP requests"
+        ,"type": "EXTREM"
+
+    },
+    {
+        "question": "What is the purpose of the 'setInterval()' method in JavaScript?",
+        "options": ["To repeatedly execute a function at specified intervals", "To execute a function once after a specified time interval", "To clear a timer set with setInterval()", "To delay the execution of a function"],
+        "answer": "To repeatedly execute a function at specified intervals"
+        ,"type": "EXTREM"
+
+    },
+    {
+        "question": "What is the purpose of the 'fetch()' API in JavaScript?",
+        "options": ["To make HTTP requests and handle responses", "To manipulate the Document Object Model", "To create animations", "To handle user input"],
+        "answer": "To make HTTP requests and handle responses"
+        ,"type": "EXTREM"
+
+    },
+    {
+        "question": "What does the 'window' object represent in the browser?",
+        "options": ["The global object", "The current document", "The browser window", "The HTML document"],
+        "answer": "The browser window"
+        ,"type": "EXTREM"
+
+    },
+    {
+        "question": "What is the purpose of the 'addEventListener()' method in JavaScript?",
+        "options": ["To attach an event handler to a specified element", "To add a new event listener", "To remove an event listener", "To trigger an event"],
+        "answer": "To attach an event handler to a specified element"
+        ,"type": "EXTREM"
+
+    },
+    {
+        "question": "What is the purpose of the 'this' keyword in JavaScript?",
+        "options": ["To refer to the current object", "To refer to the previous object", "To refer to the global object", "To refer to the parent object"],
+        "answer": "To refer to the current object"
+        ,"type": "EXTREM"
+
+    }
+
+]
