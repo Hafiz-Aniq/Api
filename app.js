@@ -3,13 +3,14 @@ require("dotenv").config()
 const express = require("express");
 const app = express();
 const connectDB = require("./db/database")
+const router =require( "./routes/quizes")  //importing
 
 const PORT = process.env.PORT || 5000;
 
 const quiz_route = require("./routes/quizes");
 
 app.get("/", (req, res) => {
-  res.send("Chup kar");
+  res.send(router);
 });
 
 
